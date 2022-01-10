@@ -12,7 +12,7 @@ My name is Nicolás Aimar
 
 ### Where to find me: 
 - [LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-aimar-88b147183/)
-- [Instagram](https://www.instagram.com/nicooaimar/)
+
       
 
 
