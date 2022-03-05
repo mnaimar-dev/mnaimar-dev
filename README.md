@@ -7,7 +7,7 @@ My name is Nicolás Aimar
 
 
 - 🌱 I am currently training as a full stack web developer in [Numen Academy](https://ar.academianumen.com/programacion-web-full-stack/)
-- 😀 I have knowledge in HTML5, CSS3 and JavaScript.
+- 😀 I have knowledge in HTML5, CSS3, FlexBox, Grid, Bootstrap 5 and JavaScript.
 - 👯 I’m looking to collaborate in any project that allows me to continue learning about programming. 
 
 ### Where to find me: 
