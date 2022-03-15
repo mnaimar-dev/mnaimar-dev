@@ -6,6 +6,7 @@ My name is Nicolás Aimar
 **mnaimar-dev/mnaimar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
+- 🎓 I am a Certified Financial Advisor® and a Blockchain Enthusiast.
 - 🌱 I am currently training as a full stack web developer in [Numen Academy](https://ar.academianumen.com/programacion-web-full-stack/)
 - 😀 I have knowledge in HTML5, CSS3, FlexBox, Grid, Bootstrap 5 and JavaScript.
 - 👯 I’m looking to collaborate in any project that allows me to continue learning about programming. 
