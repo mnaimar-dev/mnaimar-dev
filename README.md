@@ -1,6 +1,4 @@
-### Hi there 👋
-
-My name is Nicolás Aimar
+<h1 align="center">Hi 👋, My name is Nicolás Aimar</h1>
 
 <!--
 **mnaimar-dev/mnaimar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
