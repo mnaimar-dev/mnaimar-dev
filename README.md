@@ -13,8 +13,9 @@ My name is Nicolás Aimar
 - 💡 My goal is to join my two passions (finance and programming) in order to direct my knowledge towards blockchain development.
 
 ### Where to find me: 
-- [LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-aimar-88b147183/)
-
+<p align="left">
+<a href="http://devnicolasaimar/details/certifications/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolás-aimar" height="30" width="40" /></a>
+</p>
       
 
 
