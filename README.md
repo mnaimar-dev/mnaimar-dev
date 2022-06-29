@@ -14,7 +14,7 @@ My name is Nicolás Aimar
 
 ### Where to find me: 
 <p align="left">
-<a href="https://www.linkedin.com/in/devnicolasaimar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolás-aimar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/devnicolasaimar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolás-aimar" height="30" width="40" /></a>
 </p>
       
 
