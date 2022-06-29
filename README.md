@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate in any project that allows me to continue learning about programming. 
 
-- 💡 My goal is to join my two passions (finance and programming) in order to direct my knowledge towards **blockchain development**.
+- 💡 My goal is to join my two passions (finance and programming) in order to direct my knowledge towards **Blockchain Development**.
 
 ### Where to find me: 
 <p align="left">
