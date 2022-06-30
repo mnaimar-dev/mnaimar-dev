@@ -1,5 +1,6 @@
 <h1 align="center">Hi there👋, I'm Nicolás Aimar</h1>
 <h3 align="center">A Front-End Developer and a Blockchain Enthusiast</h3>
+<br />
 
 <!--
 **mnaimar-dev/mnaimar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
