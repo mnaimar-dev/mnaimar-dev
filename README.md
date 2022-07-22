@@ -1,5 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&color=F7C972&background=FFFFFF00&center=true&width=1000&height=75&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Nicol%C3%A1s+Aimar;Welcome+to+my+GitHub+page+%F0%9F%98%83)
-<h3 aling="center">Front-End Developer and a Blockchain Enthusiast</h3>
+<h3 align="center">Front-End Developer and a Blockchain Enthusiast</h3>
 <!--
 **mnaimar-dev/mnaimar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
