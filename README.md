@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Nicolás Aimar</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=F7F7F7&center=true&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Nicol%C3%A1s+Aimar;Welcome+to+my+GitHub+page+%F0%9F%98%83)](https://git.io/typing-svg)
 <h3 align="center">A Front-End Developer and a Blockchain Enthusiast</h3>
 
 <!--
