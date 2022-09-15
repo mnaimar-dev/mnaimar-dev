@@ -1,12 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&duration=6000&color=F7C972&background=FFFFFF00&center=true&width=1000&height=75&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Nicol%C3%A1s;Welcome+to+my+GitHub+page+%F0%9F%98%83)](https://git.io/typing-svg)
-<h2 align="center">Front-End Developer and Blockchain Enthusiast</h2>
+<h2 align="center">Full Stack Developer and Blockchain Enthusiast</h2>
 <!--
 **mnaimar-dev/mnaimar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
 - 🎓 I am a **Computer Engineering Student** and a **Certified Financial Advisor (AFC®)**.
-
-- 🌱 I am currently training as a **Full Stack Web Developer** in [Numen Academy](https://ar.academianumen.com/desarrollo-web-full-stack/).
 
 - 👯 I’m looking to collaborate in any project that allows me to continue learning about programming. 
 
