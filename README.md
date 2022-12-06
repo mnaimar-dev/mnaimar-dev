@@ -6,7 +6,7 @@
 
 - 🎓 I am a **Computer Engineering Student** and a **Certified Financial Advisor (AFC®)**.
 
-- 🚀 I’m currently working as Software Developer at <a href="https://www.baufest.com">Baufest</a>. 
+- 🚀 I’m currently working as Software Developer at <a target="_blank" href="https://www.baufest.com">Baufest</a>. 
 
 - 💡 My goal is to join my two passions (finance and programming) in order to direct my knowledge towards **Blockchain Development**.
 
