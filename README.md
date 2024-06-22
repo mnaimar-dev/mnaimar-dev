@@ -6,9 +6,9 @@
 
 - 🎓 I am a **Computer Engineering Student** and a **Certified Financial Advisor (AFC®)**.
 
-- 🚀 I’m currently working as Software Developer at <a target="_blank" href="https://www.mercadolibre.com">Mercado Libre</a>. 
+- 🚀 I’m currently working as a Software Developer at <a target="_blank" href="https://www.mercadolibre.com">Mercado Libre</a>. 
 
-- 💡 My goal is to join my two passions (finance and programming) in order to direct my knowledge towards **Blockchain Development**.
+- 💡 My goal is to join my two passions (finance and programming) in order to direct my knowledge towards **FinTech Software Development**.
 
 ### Where to find me 
 <p align="left">
